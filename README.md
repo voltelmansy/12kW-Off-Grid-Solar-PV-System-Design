@@ -42,7 +42,7 @@ This repository contains the complete engineering design and simulation for a **
 
 ## 🛠️ Tools Used
 * **PVsyst 8.1:** For solar resource assessment, component matching, and dynamic simulation.
-* **Microsoft Excel:** For mathematical verification and initial load estimation.
+* **Microsoft Word :** For mathematical verification and initial load estimation.
 
 ---
 ### 👤 Designed By
